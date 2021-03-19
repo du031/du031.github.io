@@ -7,5 +7,14 @@
 ## 興趣
 睡覺
 
+```C
+#include
+int main()
+{
+  printf("Holle World");
+  return 0;
+}
+```
+
 ## 圖
 ![圖](https://i.pinimg.com/originals/c3/ff/38/c3ff38882a237bfa62956660ee837c00.png)
